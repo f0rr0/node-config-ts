@@ -5,5 +5,3 @@
 declare module '*.json' {
   export {}
 }
-
-interface Config {}

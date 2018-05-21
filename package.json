@@ -1,5 +1,5 @@
 {
-  "name": "node-config-ts",
+  "name": "@f0rr0/node-config-ts",
   "version": "0.0.0-development",
   "dependencies": {
     "@types/node": "^9.3.0",
