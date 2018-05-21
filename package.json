@@ -1,6 +1,6 @@
 {
   "name": "@f0rr0/node-config-ts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "@types/node": "^9.3.0",
     "json-to-ts": "^1.5.4",
